@@ -40,4 +40,4 @@ File: `number_guess.py`
 
 ## Contact
 
-- GitHub: https://github.com/YOUR_USERNAME_HERE
+- GitHub: https://github.com/saidwasiu
